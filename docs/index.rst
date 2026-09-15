@@ -17,4 +17,5 @@ aTUNApy documentation
 
    installation
    usage
+   citation
    api
